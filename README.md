@@ -21,9 +21,7 @@ I am an **Associate Software Engineer** at **NerveSparks**, specializing in buil
 - 🚀 **LeetCode:** Solved **1000+** problems.
 - 💡 Passionate about optimizing algorithms and data structures for high-performance applications.
 
-<p align="left">
-  <a href="https://leetcode.com/u/Arindam-Mriganka/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-</p>
+
 
 ---
 
